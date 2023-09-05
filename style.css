@@ -150,7 +150,7 @@ footer p {
   }
   .aboutParagraph {
     display: flex;
-    justify-content: center;
+   align-items: center;
   }
 
   .aboutSection img {
