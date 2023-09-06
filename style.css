@@ -141,6 +141,9 @@ footer p {
     display:flex;
    
      }
+     form button {
+      max-width: 300px;
+     }
 
     .aboutSection {
     display:flex;
