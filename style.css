@@ -139,11 +139,14 @@ footer p {
   }
   form {
     display:flex;
+    justify-content: space-evenly;
    
      }
-     form button {
-      max-width: 300px;
-     }
+
+form button {
+  max-width: 300px;
+}
+    
 
     .aboutSection {
     display:flex;
@@ -182,7 +185,7 @@ footer p {
 
 .hostContainer img {
   width: 100%;
-  width: 740px;
+  width: 750px;
 }
   
 
