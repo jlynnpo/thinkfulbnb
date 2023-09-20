@@ -313,13 +313,12 @@ img {
   align-items: center;
 }
 
-
-}
-
-
-@media all and (max-width: 768px) {
   .inputField {
     display: flex;
     justify-content: space-between;
 }
+
+
 }
+
+
