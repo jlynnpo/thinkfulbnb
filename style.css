@@ -313,9 +313,9 @@ img {
   align-items: center;
 }
 
-  .inputField {
-    display: flex;
-    justify-content: space-between;
+.inputField {
+  display: flex;
+  justify-content: space-between;
 }
 
 
